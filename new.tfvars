@@ -1,0 +1,13 @@
+region = "us-east-1"
+access-key = "AKIA5P6MZ6NFRJE752CA"
+secret-key = "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"
+vpc-cidr = "10.0.0.0/24"
+subnet-cidr = "10.0.0.0/25"
+avalibility-zone = "us-east-1a"
+all-traffic-cidr = "0.0.0.0/0"
+security-group = "my_security"
+ami = "ami-0fc5d935ebf8bc3bc"
+instance-type = "t2.large"
+instance-count = 1
+associate-PIP = true
+key-value = "praksh@nv"
